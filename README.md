@@ -3,7 +3,7 @@
 ### About 💬
 Open wslpath (owslpath) is a simple command line tool for wsl terminal to convert between windows and **WSL** `Windows Subsystem for Linux` path. 
 
-## Installation
+### Installation
 
 You can install it any way you want , but this a method you can use .
 
@@ -17,16 +17,21 @@ mv owslpath ~/.scripts
 alias owslpath="~/.scripts/./owslpath"
 ```
 
-## Usage
+### Usage
 
 ```bash
 #if you add the alias use it like that
 owslpath '<WindowsPath>'
 #or just use it like that
-~/scripts/./owslpath '<WindowsPath>'
+~/.scripts/./owslpath '<WindowsPath>'
 ```
 
-### Languages and Tools 🛠
+### Examples
+
+```bash
+```
+
+## Languages and Tools 🛠
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
