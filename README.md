@@ -26,11 +26,6 @@ owslpath '<WindowsPath>'
 ~/.scripts/./owslpath '<WindowsPath>'
 ```
 
-### Examples
-
-```bash
-```
-
 ## Languages and Tools 🛠
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
