@@ -8,7 +8,7 @@ Open wslpath (owslpath) is a simple command line tool for wsl terminal to conver
 You can install it any way you want , but this a method you can use .
 
 ```bash
-git clone https://github.com/Mohamed-Ibrahim-01
+git clone https://github.com/Mohamed-Ibrahim-01/owslpath.git
 cd owslpath
 g++ -o owslpath owslpath.cpp
 mkdir ~/.scripts/ # if it wasn't already created
